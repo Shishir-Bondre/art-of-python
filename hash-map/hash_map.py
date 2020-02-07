@@ -2,6 +2,9 @@ from .linked_list import LinkedList
 
 
 class HashMap(LinkedList):
+    """
+    Hash map for LRU cache
+    """
 
     def __init__(self, length: int):
         self.__length = length
