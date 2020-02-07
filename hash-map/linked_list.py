@@ -5,6 +5,9 @@ class Node:
 
 
 class LinkedList:
+    """
+    Data structure to implement LRU
+    """
 
     def __init__(self):
         self._head = None
