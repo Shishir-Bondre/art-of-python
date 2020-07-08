@@ -1,0 +1,3 @@
+
+class LeakyBucket:
+    pass
